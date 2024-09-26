@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2kirankotha
+- 👋 Hi, I’m kiran
 - 👀 I’m interested in learning new tech
 - 🌱 I’m currently learning python
 - ⚡ Fun fact: I am a QA :)
